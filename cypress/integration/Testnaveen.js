@@ -13,6 +13,9 @@ describe('Test practice' , function()
         cy.contains('automationpractice').trigger('mouseover');
         
     })
+    it('adding one more it block for git branch', ()=>{
+        
+    })
 
 
 })
