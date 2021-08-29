@@ -13,6 +13,10 @@ describe('Test practice' , function()
         cy.contains('automationpractice').trigger('mouseover');
         
     })
+    
+    it('test master update in local branch', ()=>{
+        
+    })
 
 
 })
